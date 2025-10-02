@@ -76,8 +76,8 @@ Here’s one of my autism dataset visualizations:
 
 ## 📬 Let’s Connect!  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tasfia-shaheba)  
-- 🐙 [GitHub](https://github.com/yourusername)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tasfia-shaheba-08433a2ba/)  
+- 🐙 [GitHub](https://github.com/fiyaa2)  
 - ✉️ tasfia.shaheba59@qmail.cuny.edu  
 
 ---
