@@ -15,49 +15,40 @@
 
 ## 🛠️ Projects  
 
-### 🧠 Autism Data Visualization & Automation (Research)  
-- 📊 Created **100+ R graphs** (ggplot2, dplyr, tidyr) to uncover patterns in autism datasets  
-- 🗺️ Built **interactive outreach maps** with HTML + Excel showing participant reach across NYC  
-- 🐍 Automated MRI/fMRI/DTI data workflows with **Python** (unzipping, duplicate removal, JSON schema extraction)  
+### 🧠 Autism Data Visualization & Automation ( 📊 Data Viz Samples Below)  
+-  Created **100+ R graphs** (ggplot2, dplyr, tidyr) to uncover patterns in autism datasets  
+-  Built **interactive outreach maps** with HTML + Excel showing participant reach across NYC  
+-  Automated MRI/fMRI/DTI data workflows with **Python** (unzipping, duplicate removal, JSON schema extraction)  
 
-👉 [See Code Here](https://github.com/yourusername/autism-data-viz)  
+👉 [See Code Here](https://drive.google.com/drive/folders/1ZrLP1XpL4YF58MKVJhVStgPbRnn6FtWe?usp=share_link)  
 
 ---
 
 ### 🎮 Quiz Application (Team Project)  
-- 🎯 Designed quiz logic in **JavaScript** (timers, scoring, randomized questions, auto-submit)  
-- 🗄️ Backend built with **Node.js + MongoDB**, tracking user scores and leaderboards  
-- 🔊 Added sound effects and localStorage persistence for creativity  
+-  Designed quiz logic in **JavaScript** (timers, scoring, randomized questions, auto-submit)  
+- Backend built with **Node.js + MongoDB**, tracking user scores and leaderboards  
+- Added sound effects and localStorage persistence for creativity  
 
-👉https://github.com/fiyaa2/quizApp.git 
+👉 [See Code Here](https://github.com/fiyaa2/quizApp.git)
 
 ---
 
 ### 💼 Hackathon Projects  
 
 **InterPing (Job Match App)**  
-- 🔗 Built a **Tinder-style job matcher** leveraging job data from LinkedIn/Indeed/Dice  
-- 🤖 Designed job-recommendation logic to parse resumes and match job opportunities  
-- 🎨 Focused on UI/UX to make career discovery **engaging + algorithmic**
+-  Built a **Tinder-style job matcher** leveraging job data from LinkedIn/Indeed/Dice  
+- Designed job-recommendation logic to parse resumes and match job opportunities  
+- Focused on UI/UX to make career discovery **engaging + algorithmic**
 
 
-👉 https://github.com/fiyaa2/interping.github.io.git
+👉 [See Code Here](https://github.com/fiyaa2/interping.github.io.git)
 
 **Huda Mustafa Fitness & Beauty Website (Winner 🏆)**  
-- ⏱️ Built a fully functional **e-commerce website in under 50 minutes**  
-- 🛍️ Integrated shop for fitness and makeup products, designed around celebrity branding  
-- ⚡ Tools: HTML, CSS, JavaScript, Bootstrap  
+-  Built a fully functional **e-commerce website in under 50 minutes**  
+- Integrated shop for fitness and makeup products, designed around celebrity branding  
+- Tools: HTML, CSS, JavaScript, Bootstrap  
 
 👉 https://github.com/fiyaa2/interping.github.io.git 
-
----
-
-## 📊 Data Viz Samples  
-Here’s one of my autism dataset visualizations:  
-
-![Graph Example](images/graph1.png)  
-
-*(Add more screenshots from your R or HTML graphs here!)*  
 
 ---
 
